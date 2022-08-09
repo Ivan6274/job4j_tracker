@@ -14,7 +14,6 @@ public class Error {
         this.message = message;
     }
 
-
     public static void main(String[] args) {
         Error error = new Error();
         error.printInfo();
