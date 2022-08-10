@@ -18,7 +18,7 @@ public class TriangleTest {
     }
 
     @Test
-    public void when225and225and04Then8() {
+    public void when225and225and04ThenMinus1() {
         Point a = new Point(2, 25);
         Point b = new Point(2, 25);
         Point c = new Point(0, 4);
