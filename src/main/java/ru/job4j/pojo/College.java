@@ -9,8 +9,8 @@ public class College {
         student.setId(22);
         student.setDateOfStarEdu(new Date());
 
-        System.out.println("Student's name: " + student.getFio() + System.lineSeparator() +
-                "Id group is " + student.getId() + System.lineSeparator() +
-                "Date starting of education is " + student.getDateOfStarEdu());
+        System.out.println("Student's name: " + student.getFio() + System.lineSeparator()
+                + "Id group is " + student.getId() + System.lineSeparator()
+                + "Date starting of education is " + student.getDateOfStarEdu());
     }
 }
