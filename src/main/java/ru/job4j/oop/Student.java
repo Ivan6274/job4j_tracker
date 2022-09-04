@@ -1,6 +1,6 @@
 package ru.job4j.oop;
 
-public class Student extends Freshman{
+public class Student extends Freshman {
     public static void main(String[] args) {
         Student petya = new Student();
         petya.music();
